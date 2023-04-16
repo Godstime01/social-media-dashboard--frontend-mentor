@@ -1,0 +1,131 @@
+[
+    {
+        "big_cards": [
+            {
+                "social_icon": "./src/assets/images/icon-facebook.svg",
+                "username": "@nathanf",
+                "followers": "1987",
+                "stat": {
+                    "number": "12 Today",
+                    "color": "green",
+                    "icon": "./src/assets/images/icon-up.svg"
+                }
+            },
+            {
+                "social_icon": "./src/assets/images/icon-twitter.svg",
+                "username": "@nathanf",
+                "followers": "1044",
+                "stat": {
+                    "number": "99 Today",
+                    "color": "green",
+                    "icon": "./src/assets/images/icon-up.svg"
+                }
+            },
+            {
+                "social_icon": "./src/assets/images/icon-instagram.svg",
+                "username": "@realnathanf",
+                "followers": "11k",
+                "stat": {
+                    "number": "1099 Today",
+                    "color": "green",
+                    "icon": "./src/assets/images/icon-up.svg"
+                }
+            },
+            {
+                "social_icon": "./src/assets/images/icon-youtube.svg",
+                "username": "Nathan F.",
+                "followers": "8239",
+                "text": "Subscribers",
+                "stat": {
+                    "number": "144 Today",
+                    "color": "red",
+                    "icon": "./src/assets/images/icon-down.svg"
+                }
+            }
+        ]
+    },
+    {
+        "small_cards": [
+            {
+                "text": "Page Views",
+                "icon": "./src/assets/images/icon-facebook.svg",
+                "number": "87",
+                "stat": {
+                    "icon": "./src/assets/images/icon-up.svg",
+                    "per": "3%",
+                    "color": "green"
+                }
+            },
+            {
+                "text": "Likes",
+                "icon": "./src/assets/images/icon-facebook.svg",
+                "number": "52",
+                "stat": {
+                    "icon": "./src/assets/images/icon-down.svg",
+                    "per": "2%",
+                    "color": "red"
+                }
+            },
+            {
+                "text": "Likes",
+                "icon": "./src/assets/images/icon-instagram.svg",
+                "number": "5462",
+                "stat": {
+                    "icon": "./src/assets/images/icon-up.svg",
+                    "per": "2257%",
+                    "color": "green"
+                }
+            },
+            {
+                "text": "Retweets",
+                "icon": "./src/assets/images/icon-twitter.svg",
+                "number": "117",
+                "stat": {
+                    "icon": "./src/assets/images/icon-up.svg",
+                    "per": "303%",
+                    "color": "green"
+                }
+            },
+            {
+                "text": "Likes",
+                "icon": "./src/assets/images/icon-twitter.svg",
+                "number": "507",
+                "stat": {
+                    "icon": "./src/assets/images/icon-up.svg",
+                    "per": "553%",
+                    "color": "green"
+                }
+            },
+            {
+                "text": "Likes",
+                "icon": "./src/assets/images/icon-youtube.svg",
+                "number": "107",
+                "stat": {
+                    "icon": "./src/assets/images/icon-up.svg",
+                    "per": "19%",
+                    "color": "red"
+                }
+            },
+            {
+                "text": "Total Views",
+                "icon": "./src/assets/images/icon-youtube.svg",
+                "number": "1407",
+                "stat": {
+                    "icon": "./src/assets/images/icon-down.svg",
+                    "per": "12%",
+                    "color": "red"
+                }
+            },
+            {
+                "text": "Total Views",
+                "icon": "./src/assets/images/icon-youtube.svg",
+                "number": "1407",
+                "stat": {
+                    "icon": "./src/assets/images/icon-down.svg",
+                    "per": "12%",
+                    "color": "red"
+                }
+            }
+        ]
+    }
+]
