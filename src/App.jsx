@@ -30,19 +30,18 @@ function App() {
     }
   }, [theme])
 
-  console.log(theme)
 
   return (
     <>
       <section className='pt-5 mb-5 bg-blue-100 dark:bg-blue-700 h-[200px] sm:h-[200px]'>
-        <div className="container mx-auto flex flex-col sm:justify-between sm:items-center sm:flex-row  py-3 divide-y divide-blue-300 xs:divide-y sm:divide-y-0 ">
+        <div className="container mx-auto px-4 flex flex-col sm:justify-between sm:items-center sm:flex-row  py-3 divide-y divide-blue-300 sm:gap-0 xs:divide-y sm:divide-y-0 ">
           <div className='text-blue-700 dark:text-blue-100  '>
             <h4 className='text-3xl font-bold mb-1'>Social Media Dashboard</h4>
             <h5 className='text-md text-blue-300 font-medium'>Total Followers: 23,004</h5>
           </div>
 
 
-          <label className="relative flex xs:justify-between sm:justify-center items-center mb-5 cursor-pointer">
+          <label className="relative flex  mt-1 py-3 justify-between sm:justify-center items-center mb-5 cursor-pointer">
             <span className="mr-3 text-sm font-medium text-blue-300 capitalize">Dark Mode</span>
             <input type="checkbox" value="" className="peer/input sr-only" onClick={ toggle } />
             <div className={`w-11 h-5 relative transition-all bg-lime rounded-full peer/toggle

@@ -8,7 +8,7 @@
     "dev": "vite",
     "tail": "npx tailwindcss -i ./src/css/index.css -o ./src/css/output.css --watch",
     "predeploy": "npm run build",
-    "deploy" : "gh-pages -d build",
+    "deploy" : "gh-pages -d dist",
     "build": "vite build",
     "preview": "vite preview"
   },
