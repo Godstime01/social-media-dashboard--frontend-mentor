@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/Godstime01/social-media-dashboard--frontend-mentor",
   "name": "social-media-dashboard",
   "private": true,
   "version": "0.0.0",
@@ -6,6 +7,7 @@
   "scripts": {
     "dev": "vite",
     "tail": "npx tailwindcss -i ./src/css/index.css -o ./src/css/output.css --watch",
+    "deploy" : "gh-pages -d build",
     "build": "vite build",
     "preview": "vite preview"
   },
@@ -18,6 +20,7 @@
     "@types/react-dom": "^18.0.11",
     "@vitejs/plugin-react": "^3.1.0",
     "autoprefixer": "^10.4.14",
+    "gh-pages": "^5.0.0",
     "postcss": "^8.4.21",
     "tailwindcss": "^3.3.1",
     "vite": "^4.2.0"
